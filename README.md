@@ -3,6 +3,7 @@
 <img width="465" height="459" alt="Image" src="https://github.com/user-attachments/assets/20382a3b-4349-43b2-affb-9fe2766f347e" />
 
 ## المميزات (Arabic)
+- لبرنامج بلغه العربيه والانجليزيه والفرنسيه والروسيه والصينيه
 - التفعيل/التعطيل عبر مفتاح اختصار عام (Hotkey).
 - اختيار نوع النقر: الفأرة (يسار/يمين/أوسط) أو محاكاة أزرار لوحة المفاتيح.
 - تحديد فترة النقر بالميللي ثانية (قابلة للتعديل).
@@ -21,6 +22,7 @@
 ---
 
 ## Features (English)
+- The program is available in Arabic, English, French, Russian and Chinese.
 - Global hotkey to enable/disable the app.
 - Choose click type: mouse (Left/Right/Middle) or keyboard key simulation.
 - Configurable click interval in milliseconds.
