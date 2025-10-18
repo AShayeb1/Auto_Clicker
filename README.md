@@ -1,5 +1,6 @@
 # AutoClicker
-
+<img width="463" height="459" alt="Image" src="https://github.com/user-attachments/assets/ac0edd47-0274-4a57-9783-bb1615bc5b53" />
+<img width="465" height="459" alt="Image" src="https://github.com/user-attachments/assets/20382a3b-4349-43b2-affb-9fe2766f347e" />
 ## المميزات (Arabic)
 - التفعيل/التعطيل عبر مفتاح اختصار عام (Hotkey).
 - اختيار نوع النقر: الفأرة (يسار/يمين/أوسط) أو محاكاة أزرار لوحة المفاتيح.
