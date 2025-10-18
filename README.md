@@ -1,2 +1,35 @@
-# Auto-Clicker
-Auto Clicker App
+# AutoClicker
+
+## المميزات (Arabic)
+- التفعيل/التعطيل عبر مفتاح اختصار عام (Hotkey).
+- اختيار نوع النقر: الفأرة (يسار/يمين/أوسط) أو محاكاة أزرار لوحة المفاتيح.
+- تحديد فترة النقر بالميللي ثانية (قابلة للتعديل).
+- نمط النقر المستمر (الضغط مع الاستمرار للتكرار).
+- مفاتيح بدء/إيقاف مخصصة للنقر التلقائي.
+- العمل في شريط النظام (Tray) مع خيارات إظهار/إغلاق.
+- إعدادات عامة: اللغة والتشغيل مع نظام Windows.
+- إمكانية إنشاء اختصار على سطح المكتب (اختياري).
+
+## متطلبات التشغيل (Arabic)
+- نظام التشغيل: Windows 10 أو Windows 11.
+- بيئة التشغيل: تثبيت .NET 8 Desktop Runtime (نسخة x86 للبنية الحالية).
+- المعمارية: x86؛ يعمل على أجهزة x64.
+- لا يلزم اتصال إنترنت للتشغيل الأساسي.
+
+---
+
+## Features (English)
+- Global hotkey to enable/disable the app.
+- Choose click type: mouse (Left/Right/Middle) or keyboard key simulation.
+- Configurable click interval in milliseconds.
+- Continuous click mode (hold to repeat).
+- Custom start/stop keys for auto-click.
+- System tray integration with show/exit options.
+- General settings: language and start with Windows.
+- Optional: create a desktop shortcut.
+
+## System Requirements (English)
+- OS: Windows 10 or Windows 11.
+- Runtime: .NET 8 Desktop Runtime installed (x86 for the current build).
+- Architecture: x86; works on x64 machines.
+- No internet connection required for core functionality.
