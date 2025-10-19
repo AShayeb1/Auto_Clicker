@@ -1,6 +1,6 @@
 # AutoClicker
-<img width="463" height="459" alt="Image" src="https://github.com/user-attachments/assets/ac0edd47-0274-4a57-9783-bb1615bc5b53" />
-<img width="465" height="459" alt="Image" src="https://github.com/user-attachments/assets/20382a3b-4349-43b2-affb-9fe2766f347e" />
+<img width="463" height="459" alt="Image" src="https://github.com/user-attachments/assets/ac0edd47-0274-4a57-9783-bb1615bc5b53" /> <img width="465" height="459" alt="Image" src="https://github.com/user-attachments/assets/20382a3b-4349-43b2-affb-9fe2766f347e" />
+<img width="461" height="763" alt="Image" src="https://github.com/user-attachments/assets/ed71066f-7df8-4051-8257-dcddf8eecfb8" /> <img width="460" height="750" alt="Image" src="https://github.com/user-attachments/assets/6ac33068-f3da-43e7-b341-7aedc97b437d" />
 
 ## المميزات (Arabic)
 - لبرنامج بلغه العربيه والانجليزيه والفرنسيه والروسيه والصينيه
